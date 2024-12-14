@@ -6,8 +6,6 @@ The Ask Grok Chrome extension seamlessly integrates Grok AI into X (formerly Twi
 <img width="640" alt="Screenshot 2024-12-14 at 13 17 38" src="https://github.com/user-attachments/assets/b3f6b53b-0f6e-4228-99ba-2530d5d0d50d" />
 <img width="640" alt="Screenshot 2024-12-14 at 13 17 55" src="https://github.com/user-attachments/assets/f76995e4-0d62-48b1-aa59-4502c9e93aa7" />
 
-If you find it useful, feel free to <a href="https://www.buymeacoffee.com/pXhXnSXSbN"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee.&emoji=&slug=pXhXnSXSbN&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
 ## Features
 - Native X (Twitter) UI integration
 - Quick access to Grok from any tweet
@@ -31,9 +29,8 @@ If you find it useful, feel free to <a href="https://www.buymeacoffee.com/pXhXnS
    - Or just press Enter/click "Ask" for a default "Explain" prompt
 4. A new tab will open with Grok's response
 
-## Contributing
-Feel free to submit issues and pull requests for:
-- Bug fixes
-- UI improvements
-- New features
-- Performance optimizations
+## Contributing.
+
+PRs are welcome! 
+
+Also, if you find this useful, feel free to <a href="https://www.buymeacoffee.com/pXhXnSXSbN"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee.&emoji=&slug=pXhXnSXSbN&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
