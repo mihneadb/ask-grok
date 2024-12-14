@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Ask Grok",
+    "version": "1.0",
+    "description": "Ask Grok about any X post.",
+    "permissions": ["activeTab"],
+    "icons": {
+      "16": "icon-16.png",
+      "20": "icon-20.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    },
+    "web_accessible_resources": [
+    {
+      "resources": ["icon-20.png"],
+      "matches": ["<all_urls>"]
+    }
+    ],
+    "content_scripts": [
+    {
+        "run_at": "document_start",
+        "matches": ["https://*.x.com/*", "https://*.twitter.com/*"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+    }
+    ]
+  }
